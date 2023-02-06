@@ -96,7 +96,7 @@
   - For **aligned** objects, although it performs well on toothbrush, it is sub-optimal on capsule.
 
 34. surpass 능가하다, 뛰어넘다
-  - With a finer-grained 3way classification to leverage different scale of CutPaste, we achieve the best 95.2 AUC, which **surpasses** existing works on learning from scratch, such as P-SVDD (92.1 AUC).
+  - With a finer-grained 3-way classification to leverage different scale of CutPaste, we achieve the best 95.2 AUC, which **surpasses** existing works on learning from scratch, such as P-SVDD (92.1 AUC).
 
 35. Localization 지방화
   - Defect **Localization**
@@ -116,7 +116,7 @@
 40. plausible 타당한 것 같은, 이치에 맞는, 그럴듯한
 41. superiority 우월성, 우월, 거만함
 42. systematic 체계적인, 조직적인
-  - A **plausible** hypothesis on the **superiority** of 3-way formulation in our case is that it is more natural to model CutPaaste and CutPaste-scar augmentations separately than together as there exists a **systematic** difference between them in the size, shape, and rotation angle of patches.
+  - A **plausible** hypothesis on the **superiority** of 3-way formulation in our case is that it is more natural to model CutPaste and CutPaste-scar augmentations separately than together as there exists a **systematic** difference between them in the size, shape, and rotation angle of patches.
 
 43. synthetic (인위적으로) 합성한, 인조의
   - CutPaste on **Synthetic** Anomaly Detection
