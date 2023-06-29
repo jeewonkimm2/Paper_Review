@@ -1,2 +1,2 @@
 # Paper_Review
-Review of paper
+Review of paper (iai lab seminar)
